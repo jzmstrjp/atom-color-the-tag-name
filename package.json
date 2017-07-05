@@ -1,7 +1,7 @@
 {
   "name": "atom-color-the-tag-name",
   "main": "./lib/my-package",
-  "version": "1.6.1",
+  "version": "1.7.0",
   "description": "color the tag name",
   "keywords": [
     "color",
