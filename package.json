@@ -1,0 +1,14 @@
+{
+  "name": "atom-color-the-tag-name",
+  "main": "./lib/my-package",
+  "version": "1.0.0",
+  "description": "color the tag name",
+  "keywords": ["color","tag"],
+  "license": "MIT",
+  "repository": "https://github.com/jzmstrjp/atom-color-the-tag-name",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
