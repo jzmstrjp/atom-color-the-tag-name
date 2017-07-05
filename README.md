@@ -1,2 +1,2 @@
-"# atom-color-the-tag-name" 
-"# atom-color-the-tag-name" 
+# color the tag name
+This extension colors the tags name.
